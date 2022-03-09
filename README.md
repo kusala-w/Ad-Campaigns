@@ -1,4 +1,4 @@
-# Business Campaign Project
+# Ad Campaigns Project
 
 Follow these steps to setup the Business Campaign Project in your local environment
 
