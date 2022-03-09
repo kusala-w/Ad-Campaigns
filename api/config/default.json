@@ -1,0 +1,10 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 8081
+    },
+    "data": {
+        "dataFolder": "data-store",
+        "businessData": "business-list.json"
+    }    
+}
